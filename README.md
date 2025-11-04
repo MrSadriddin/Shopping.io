@@ -20,7 +20,7 @@ It provides a clean admin interface and modular apps for handling accounts, clie
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/dev-723743344/Shopping.io.git
+git clone https://github.com/MrSadriddin/Shopping.io.git
 cd Shopping.io
 ```
 
@@ -111,8 +111,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 ## ✨ Author
-Developed by [Sadriddin Axmadullayev]  
-📧 Contact: [saxmadullayev@gmail.com]  
-🌐 GitHub: [https://github.com/dev-723743344]
+Developed by [Sadriddin Akhmadullayev]  
+📧 Contact: [mr.sadriddin1@gmail.com]  
+🌐 GitHub: [https://github.com/MrSadriddin]
 
 Feel free to contribute or open issues on GitHub!
